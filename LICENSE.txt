@@ -1,0 +1,37 @@
+AgentDeck — End-User Licence Agreement
+Copyright (c) 2026 Media Modus LTD. All rights reserved.
+
+The compiled application distributed in this repository ("the Software") is
+made available free of charge under the following terms. By downloading,
+installing or running the Software you agree to them.
+
+1. Grant of licence.
+   You are granted a non-exclusive, royalty-free, worldwide licence to
+   download, install and run the Software for your own personal or business
+   purposes, on any number of machines you control.
+
+2. Restrictions.
+   You may NOT:
+   (a) sell, rent, sublicence, redistribute or otherwise make the Software
+       available to third parties, whether modified or unmodified;
+   (b) reverse engineer, decompile or disassemble the Software, or attempt to
+       derive its source code, except to the extent this restriction is
+       expressly prohibited by applicable law;
+   (c) remove or alter any copyright, licence or attribution notices; or
+   (d) use the Software to build a competing product for distribution.
+
+3. Source code.
+   The source code of the Software is not provided and remains the private
+   property of the copyright holder. No rights to the source are granted.
+
+4. Third-party services.
+   Optional AI features call external APIs (e.g. Anthropic) using credentials
+   you supply. Your use of those services is governed by their own terms, and
+   any usage costs are yours.
+
+5. No warranty.
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+   ARISING FROM THE USE OF THE SOFTWARE.
