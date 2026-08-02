@@ -48,6 +48,8 @@ know which one needs you next.
 2. Unzip and drag **AgentDeck.app** into **/Applications**.
 3. Launch. The app is signed with a Developer ID and notarized by Apple, so
    Gatekeeper opens it without warnings.
+4. That's the last manual download — from 1.14.0 the app updates itself
+   (Sparkle; **AgentDeck → Check for Updates…** to check on demand).
 
 **Requirements:** macOS 14 (Sonoma) or later. Universal binary.
 

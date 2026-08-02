@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.14.0 — 2026-08-02
+
+**Automatic updates.** AgentDeck now updates itself via Sparkle: it checks the
+public update feed in the background and offers new versions in-app, or on
+demand via **AgentDeck → Check for Updates…**. Updates are EdDSA-signed and
+the app remains notarized end to end. This is the last version you'll need to
+download by hand.
+
 ## 1.13.1 — 2026-08-02
 
 **Lazy tab loading.** Launching AgentDeck no longer starts every agent in
