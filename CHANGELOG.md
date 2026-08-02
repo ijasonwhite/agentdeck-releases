@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.13.1 — 2026-08-02
+
+**Lazy tab loading.** Launching AgentDeck no longer starts every agent in
+every tab at once. Restored sessions register as **sleeping** (grey) and a
+tab's agents launch the first time you open that tab in the session — the
+visible tab still wakes immediately, so launch feels identical but is far
+lighter with many tabs.
+
+**Auto Load per agent.** Each agent tile's new **⋯** menu has an
+**Auto Load on Launch** toggle for sessions that rely on running from the
+moment the app is up — they start at launch in any tab, exactly like the old
+behaviour. Turning it on while a session sleeps wakes it immediately.
+
 ## 1.13.0 — 2026-08-02
 
 **Engineer Prompt studio.** The per-tab CLAUDE.md editor grew into a full
