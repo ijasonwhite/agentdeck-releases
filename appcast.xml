@@ -6,5 +6,14 @@
     <description>AgentDeck update feed</description>
     <language>en</language>
     <!-- ITEMS -->
+    <item>
+      <title>AgentDeck 1.14.0</title>
+      <pubDate>Sun, 02 Aug 2026 20:40:35 +0100</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>AgentDeck now updates itself via Sparkle: automatic background checks plus AgentDeck → Check for Updates…. Updates are EdDSA-signed and notarized end to end. This is the last version you need to download by hand.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.14.0/AgentDeck-1.14.0.zip" sparkle:edSignature="9raSDF0iRnSS77ZdDko3SVoWGZg+2p51C5yTaqzs5DMbQ4fRF1kLzmyoJWfVaOWL3k55FnJqI5/8MjWmmfSrDg==" length="7929642" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
