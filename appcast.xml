@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AgentDeck</title>
+    <link>https://github.com/ijasonwhite/agentdeck-releases</link>
+    <description>AgentDeck update feed</description>
+    <language>en</language>
+    <!-- ITEMS -->
+  </channel>
+</rss>
