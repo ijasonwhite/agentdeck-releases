@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.14.1</title>
+      <pubDate>Mon, 03 Aug 2026 11:14:12 +0100</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Collapsed tab groups keep the home-folder indicator: the parent chip shows the house glyph for the member it displays, and the member menu marks homed tabs.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.14.1/AgentDeck-1.14.1.zip" sparkle:edSignature="lhIMRrEPPz6E1V3DX3fEEMjoxaRiVWp+2eoZi4PtNzliA3eWf3W2I0u0Ut8j+sIBqPDjEb6QEvkD9I7tqylWAw==" length="7934091" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.14.0</title>
       <pubDate>Sun, 02 Aug 2026 20:40:35 +0100</pubDate>
       <sparkle:version>61</sparkle:version>
