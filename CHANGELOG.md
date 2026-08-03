@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.14.1 — 2026-08-03
+
+- Collapsed tab groups keep the home-folder indicator: the parent chip shows
+  the house glyph (path on hover) for the member it displays, and the member
+  menu marks homed tabs with a house icon / ⌂.
+
 ## 1.14.0 — 2026-08-02
 
 **Automatic updates.** AgentDeck now updates itself via Sparkle: it checks the
