@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.15.0 — 2026-08-04
+
+**Live status bar.** A realtime state-of-play strip along the bottom of the
+window: session counts by state (the amber *waiting* cell pulses and clicking
+it jumps to the next agent needing input, like ⌘J), tab count + active tab
+and its home folder, the focused session's git branch/dirty/ahead-behind
+state, relay and remote session counts, the hook-server port, and the app
+version. Sections appear only when relevant.
+
 ## 1.14.1 — 2026-08-03
 
 - Collapsed tab groups keep the home-folder indicator: the parent chip shows
