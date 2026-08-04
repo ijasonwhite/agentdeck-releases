@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.15.2 — 2026-08-04
+
+- Agent launches no longer pollute your shell history: the auto-typed launch
+  command is space-prefixed and flagged (HISTORY_IGNORE / HISTCONTROL) so
+  zsh, bash and fish leave it out of the history file. Toggle in Settings →
+  Interface ("Keep agent launches out of shell history", on by default).
+
+## 1.15.1 — 2026-08-04
+
+- Updater validation release (no functional changes).
+
 ## 1.15.0 — 2026-08-04
 
 **Live status bar.** A realtime state-of-play strip along the bottom of the
