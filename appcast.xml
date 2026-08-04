@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.15.0</title>
+      <pubDate>Tue, 04 Aug 2026 14:36:27 +0100</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Live status bar along the bottom of the window: realtime session counts by state (click the amber waiting cell to jump to the next agent needing input), active tab + home folder, focused session git status, relay/remote counts, hook port and version.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.15.0/AgentDeck-1.15.0.zip" sparkle:edSignature="7ayZpiZnX14y2LP8y1F/n1WaI6LQ//poXOoVrlabSKBglFO61m8SPwWn5q60C0nsO2WLXa0eOYwJV/qjAFI/Ag==" length="7982531" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.14.1</title>
       <pubDate>Mon, 03 Aug 2026 11:14:12 +0100</pubDate>
       <sparkle:version>62</sparkle:version>
