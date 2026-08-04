@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.15.1</title>
+      <pubDate>Tue, 04 Aug 2026 21:01:08 +0100</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Updater validation release — no functional changes. Confirms the full Sparkle cycle: prompt, download, install, relaunch.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.15.1/AgentDeck-1.15.1.zip" sparkle:edSignature="zMC3Om1FDAHTWRYUlcwP+dnu4U9QYuioxiBSwPpMQ8B675DYlaYcMVrVtr7zC1fdcjJT/SJiAJfk3kKGvTSACA==" length="7982526" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.15.0</title>
       <pubDate>Tue, 04 Aug 2026 14:36:27 +0100</pubDate>
       <sparkle:version>63</sparkle:version>
