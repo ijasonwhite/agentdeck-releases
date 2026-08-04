@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.15.2</title>
+      <pubDate>Tue, 04 Aug 2026 21:36:28 +0100</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>1.15.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Agent launches no longer pollute your shell history: the auto-typed launch command is excluded from zsh/bash/fish history files. Toggle in Settings → Interface, on by default.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.15.2/AgentDeck-1.15.2.zip" sparkle:edSignature="jtasPjepedAvTkwBkzZIB6IwNDacqAG/Z/ORjgg5dqZH3PsPm8sb8eYci3Bxw1fUfVjgwRnlsj6DTkp9T7W0Cg==" length="7984696" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.15.1</title>
       <pubDate>Tue, 04 Aug 2026 21:01:08 +0100</pubDate>
       <sparkle:version>64</sparkle:version>
