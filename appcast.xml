@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.15.3</title>
+      <pubDate>Sat, 29 Aug 2026 19:00:33 +0100</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.15.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Hovering over an agent no longer moves the TUI input cursor (keystrokes stopped landing mid-sentence), and collapsed tab groups can rename the selected tab via double-click or right-click → Rename.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.15.3/AgentDeck-1.15.3.zip" sparkle:edSignature="4xhdU0BEsnLPEa0tdJPWfr1wyJejXw97QXDyDWqIWV03tyZg1apZ398uZS59zasACrD4y33m5fCSq78tmaPeAw==" length="7999888" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.15.2</title>
       <pubDate>Tue, 04 Aug 2026 21:36:28 +0100</pubDate>
       <sparkle:version>65</sparkle:version>
