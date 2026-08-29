@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.15.3 — 2026-08-29
+
+- Hovering over an agent terminal no longer moves the TUI's input cursor:
+  bare mouse motion is no longer reported to apps using any-event mouse
+  tracking (Claude Code moved its caret to follow the pointer, so keystrokes
+  landed mid-sentence). Clicks, drags and scrolling report as before.
+- Collapsed tab groups can rename the selected tab: double-click the parent
+  chip, or right-click and choose Rename.
+
 ## 1.15.2 — 2026-08-04
 
 - Agent launches no longer pollute your shell history: the auto-typed launch
