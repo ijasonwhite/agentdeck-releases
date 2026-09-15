@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.19.1</title>
+      <pubDate>Tue, 15 Sep 2026 21:35:03 +0100</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Watcher panel gains a live team tree: spawned agents were flat tiles with no lineage, so a fanned-out team was unreadable. The Watcher tab now shows each primary with its team nested by depth — every node's state, role, activity and status, click any to jump to its tile.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.19.1/AgentDeck-1.19.1.zip" sparkle:edSignature="9SqmbY4YQHm73irwYsd/jlIZUz04ZKhEfzWUOmSa2uiR1UyQpn5udc0O2cojeIDjV//U/Ey0pRQ9lRWB8OX0Dg==" length="8555885" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.19.0</title>
       <pubDate>Tue, 15 Sep 2026 20:06:08 +0100</pubDate>
       <sparkle:version>71</sparkle:version>
