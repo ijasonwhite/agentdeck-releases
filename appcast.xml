@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.19.0</title>
+      <pubDate>Tue, 15 Sep 2026 20:06:08 +0100</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>The watcher becomes a real orchestrator: recursive fan-out (a spawned agent can spawn its own specialists, up to 4 deep / 12 per team, findings aggregating back up), every spawned agent briefed with the full protocol, a structured POST /orchestrate channel alongside the terminal convention, per-task model routing, and spawned agents that auto-close when done. Plus a Clear Log button. Permission and destructive prompts always escalate to you at any depth.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.19.0/AgentDeck-1.19.0.zip" sparkle:edSignature="c7+OnjtXo/vdos54YuUlKFQq9OXE7YwgknAI3kwRlY1p1RihchDBOoCM8+Djs+8rIOZeujSTTaJQEjT8RBZxCg==" length="8522875" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.18.0</title>
       <pubDate>Tue, 15 Sep 2026 18:55:32 +0100</pubDate>
       <sparkle:version>70</sparkle:version>
