@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.17.0</title>
+      <pubDate>Tue, 15 Sep 2026 12:21:22 +0100</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>The redesign: achromatic chrome where hue only ever means agent state, the NEEDS YOU attention rail, decluttered tile headers with an Assist menu, Watcher mission control in the right panel, tab colours as slim left rules, and pill-style status bar. Every feature and shortcut unchanged.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.17.0/AgentDeck-1.17.0.zip" sparkle:edSignature="LHD1e81RQZiVwsoSbzMhAvN6eVBTundlmwjzQzi5DC7VxxF+rXTLJaPeLHH+hwWDEByM6XVRcVwKYV+tva2jAg==" length="8459570" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.16.0</title>
       <pubDate>Tue, 15 Sep 2026 10:24:45 +0100</pubDate>
       <sparkle:version>67</sparkle:version>
