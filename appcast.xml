@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.18.0</title>
+      <pubDate>Tue, 15 Sep 2026 18:55:32 +0100</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Terminals adopt the refresh palette (no more blue-black inside near-black chrome). Per-agent instruction files: a tab's briefing goes to the file its own agents read (CLAUDE.md / AGENTS.md / GEMINI.md), only in the tab's own home, with an overlapping-home warning. The watcher can now pick the best installed agent for a consult task.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.18.0/AgentDeck-1.18.0.zip" sparkle:edSignature="xXgxf8VT7c3LYFz+MOi3X7T5vr80g1zcxlrB/oeXlXcmn9bq7VH/DXV0FYZ+xHqHFD6N9W3hElFIYpG2NgnzBA==" length="8488054" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.17.1</title>
       <pubDate>Tue, 15 Sep 2026 16:10:27 +0100</pubDate>
       <sparkle:version>69</sparkle:version>
