@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.18.0 — 2026-09-15
+
+- Terminals adopt the refresh palette: the terminal surface moves off the
+  old blue-black to the achromatic body and foreground, so terminals no
+  longer clash with the near-black chrome. Caret and accents use the new
+  amber. Tab tint left-rule widened.
+- Per-agent instruction files: a tab's briefing (the generated starter and
+  the watcher's supervision contract) is written to the file each of the
+  tab's own agents reads — CLAUDE.md for Claude and Kimi, AGENTS.md for
+  Codex, GEMINI.md for Gemini — and the Engineer Prompt editor targets that
+  file. Everything is written only inside the tab's own home.
+- Overlapping-home warning: setting a tab home that is the same folder as,
+  or a parent or child of, another tab's home now warns you, because agent
+  instruction files are read up the directory tree.
+- The watcher can pick the best model for a task: it now sees your installed
+  agents and may route a consult to a fast agent for bulk work or a stronger
+  one for review, falling back to the expert's configured agent.
+
 ## 1.17.1 — 2026-09-15
 
 Watcher reliability and a two-sided contract:
