@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.17.0 — 2026-09-15
+
+**The redesign.** A ground-up visual refresh: hue now means agent state and
+nothing else.
+
+- Achromatic chrome: near-black greys carry all structure; the blue accent
+  is retired (primary actions are light-filled). Blue = running, amber =
+  needs you, green = done, grey = sleeping.
+- Attention rail: a NEEDS YOU strip under the toolbar names every waiting
+  agent with reason and live age; click to jump straight to it.
+- Tile headers decluttered: TLDR, Discuss, Consult and Relay fold into one
+  Assist menu; state pills carry reason text; waiting tiles get an amber
+  treatment; focus mode gains an explicit Exit focus button.
+- Watcher mission control: a fourth right-panel tab with mode switch,
+  action budgets and a live decision feed with actionable escalation and
+  draft cards.
+- Tab bar: identity colours become a slim left rule on each chip (they no
+  longer compete with the amber waiting signal); the overflow control shows
+  how many tabs are hidden, with an amber dot when one needs you.
+- Status bar: waiting and watcher cells become pills; zero-count cells dim.
+- Reduce Motion: the amber pulse becomes a static ring.
+
+Every feature, shortcut and workflow is unchanged - this release is purely
+how the deck looks and reads.
+
 ## 1.16.0 — 2026-09-15
 
 **The Watcher.** Right-click a tab, Enable Watcher, and finished or stuck
