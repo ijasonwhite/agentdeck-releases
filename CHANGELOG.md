@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.17.1 — 2026-09-15
+
+Watcher reliability and a two-sided contract:
+
+- Terminal output is cleaned of ANSI/control sequences before the watcher
+  reads it (raw escape codes previously made it misjudge output as
+  corrupted).
+- A once-a-minute heartbeat re-evaluates waiting sessions in watched tabs,
+  so a missed event or a draft awaiting your approval can no longer strand
+  a session. Budgets, cooldowns and parking still apply.
+- Suggest drafts and escalations now park a session for you explicitly;
+  sending the draft or any fresh agent activity releases it.
+- Arming the watcher on a tab with a home folder writes a Working under
+  supervision section into its CLAUDE.md so every agent knows the rules:
+  ask one clear question when blocked, relayed-message prefixes, and that
+  permission or destructive decisions always go to the human. Agents can
+  request specialist help with WATCHER: consult <expert> — <brief>.
+  Disarming removes the section cleanly; re-arming refreshes the roster.
+
 ## 1.17.0 — 2026-09-15
 
 **The redesign.** A ground-up visual refresh: hue now means agent state and
