@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.16.0 — 2026-09-15
+
+**The Watcher.** Right-click a tab, Enable Watcher, and finished or stuck
+agent turns in that tab are triaged automatically: the watcher answers
+simple questions itself so agents stop hanging, fans work out to a
+configurable roster of experts (Peer Reviewer, UI Expert, Data Expert, Test
+Engineer, or your own), or escalates anything destructive or
+judgement-shaped to you.
+
+- Experts spawn as real agent tiles in the tab, pre-briefed; their findings
+  are folded into direction and relayed back to the original agent.
+- Experts can ask follow-up questions: the watcher relays the question to
+  the primary agent and the answer back, capped at three rounds.
+- Suggest mode (default) drafts watcher replies into Discuss for approval;
+  Auto mode types them straight into the agent.
+- Per-expert agent choice (run your reviewer on Claude, your data expert on
+  Kimi…), with an Automatic fallback to the first detected CLI.
+- Full audit: every decision, brief, question, answer, findings relay and
+  escalation in the new Watcher Log window, and appended to
+  watcher-audit.jsonl in Application Support.
+- Guardrails: hard per-session action budget, cooldown between actions, and
+  permission or destructive prompts always escalate to you.
+
+Uses your Anthropic API key (Settings → AI summaries); idle without one.
+
 ## 1.15.3 — 2026-08-29
 
 - Hovering over an agent terminal no longer moves the TUI's input cursor:
