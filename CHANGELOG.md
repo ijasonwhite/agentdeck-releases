@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.19.0 — 2026-09-15
+
+The watcher becomes a real orchestrator.
+
+- Recursive fan-out: a watcher-spawned agent can spawn its own specialists,
+  building a coordinated team whose findings aggregate back up to the primary.
+  Bounded to keep it sane: up to 4 levels deep and 12 agents per team.
+- Every spawned agent is briefed with the full protocol — its task, how deep
+  it is, and exactly how to report up, ask a question, fan out its own team,
+  or escalate to you.
+- Structured channel: agents coordinate over a real endpoint
+  (POST /orchestrate) as well as the terminal convention, so orchestration
+  no longer depends on reading terminal text.
+- The watcher can route each task to the best-suited installed agent.
+- Spawned agents auto-close once their work is delivered, so the deck stays
+  clean (optional; Settings → Watcher).
+- Watcher Log gains a Clear Log button.
+- The supervision contract explains the turn-end mechanic: the watcher reads
+  your terminal when a turn ends, so a request must be the last thing before
+  you stop.
+
+Permission prompts and destructive actions always escalate to you, at any
+depth of the team.
+
 ## 1.18.0 — 2026-09-15
 
 - Terminals adopt the refresh palette: the terminal surface moves off the
