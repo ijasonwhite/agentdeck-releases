@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.16.0</title>
+      <pubDate>Tue, 15 Sep 2026 10:24:45 +0100</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>The Watcher: enable it on a tab and agent turns are triaged automatically — simple questions answered so agents stop hanging, work fanned out to a configurable expert roster (spawned as real agent tiles, with two-way follow-up dialogue relayed between agents), anything destructive escalated to you. Full audit in the new Watcher Log and watcher-audit.jsonl. Uses your Anthropic key; Suggest mode by default.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.16.0/AgentDeck-1.16.0.zip" sparkle:edSignature="fXN0k/DMvajokglH7+rX+AJ+5rJuk3yDBHDq6KFBO+JFinhpCMdg7zkbdwzMAxjvESt7YEL0OZFBGKGDZ4ozAg==" length="8189980" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.15.3</title>
       <pubDate>Sat, 29 Aug 2026 19:00:33 +0100</pubDate>
       <sparkle:version>66</sparkle:version>
