@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.17.1</title>
+      <pubDate>Tue, 15 Sep 2026 16:10:27 +0100</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Watcher reliability: terminal output is cleaned before the watcher reads it, a heartbeat re-evaluates stuck sessions, drafts and escalations park explicitly, and arming the watcher writes a supervision contract into the tab home's CLAUDE.md (removed on disarm) so agents know the rules and can request experts with WATCHER: consult.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.17.1/AgentDeck-1.17.1.zip" sparkle:edSignature="zTmXGqhLqT6PqwOX0hWSyhHWHBBo7EuE/1zPSQoRDMSvAIV7UWl9APvzOHEcO7gpro20y8Fh0Kn4Hc1z6Gb6DQ==" length="8475112" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.17.0</title>
       <pubDate>Tue, 15 Sep 2026 12:21:22 +0100</pubDate>
       <sparkle:version>68</sparkle:version>
