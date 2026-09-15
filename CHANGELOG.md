@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.19.1 — 2026-09-15
+
+- Watcher panel gains a live team tree: spawned agents were flat, identical
+  tiles with no lineage, so a fanned-out team was unreadable. The Watcher tab
+  now shows each primary with its team nested by depth — every node's state,
+  role, activity and status, click any to jump to its tile.
+
 ## 1.19.0 — 2026-09-15
 
 The watcher becomes a real orchestrator.
