@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.20.0 — 2026-09-16
+
+**The Governor.** A new way to run a team, rethought from the ground up.
+Instead of bolting a supervisor onto a running agent, you brief a tab's
+governor with a task and it does the orchestrating:
+
+- Plans the work into at most four focused workers, each with its own
+  objective and no overlap — a flat team that fits one tab, not a deep tree.
+- Dispatches them, tracks each one live, collects their results, and
+  synthesises a single answer for you.
+- Suggest mode shows you the plan to approve; Auto mode runs it straight
+  through. Brief it from the Watcher panel.
+
+**Stall fix.** Agents other than Claude Code that finished a turn without a
+prompt-style last line were never marked done, so anything waiting on them
+would hang. They now settle to done after a short idle, so the watcher and
+governor keep moving.
+
+Permission prompts and destructive actions still always come to you.
+
 ## 1.19.1 — 2026-09-15
 
 - Watcher panel gains a live team tree: spawned agents were flat, identical
