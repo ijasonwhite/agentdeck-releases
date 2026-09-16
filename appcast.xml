@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.20.1</title>
+      <pubDate>Wed, 16 Sep 2026 22:08:31 +0100</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Governor: briefing a tab with no Home folder now warns and lets you set one first, instead of quietly launching the workers in your default directory. A tab is a project; its workers should start in it.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.20.1/AgentDeck-1.20.1.zip" sparkle:edSignature="s8rV3r4j9LkTXxx8edxnTuhotho8EWL8r9+yIUxOAlvNFF0dolJvBg5Nc6KpY7ZIBNxBfHBwmqaJ2MabB9CVBQ==" length="8706169" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.20.0</title>
       <pubDate>Wed, 16 Sep 2026 21:32:27 +0100</pubDate>
       <sparkle:version>73</sparkle:version>
