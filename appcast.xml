@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.20.0</title>
+      <pubDate>Wed, 16 Sep 2026 21:32:27 +0100</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>The Governor: brief a tab's governor with a task and it plans the work into up to four focused workers, dispatches them onto the tab, tracks them, collects their results and synthesises a single answer. Suggest shows the plan to approve; Auto runs it. Plus a stall fix: non-Claude agents that finish without a prompt-style last line now settle to done, so the watcher and governor stop hanging.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.20.0/AgentDeck-1.20.0.zip" sparkle:edSignature="vt6CO28hC5D6eSP3Q/rC79W9DPzFwD7dbwvuFTK2cCbUSNzsQyDvxf12XOlWDhVJc5Xlq345jsW+o/9mSIrzCg==" length="8704657" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.19.1</title>
       <pubDate>Tue, 15 Sep 2026 21:35:03 +0100</pubDate>
       <sparkle:version>72</sparkle:version>
