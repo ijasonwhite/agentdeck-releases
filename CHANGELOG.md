@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.20.1 — 2026-09-16
+
+- Governor: briefing a tab that has no Home folder now warns and lets you set
+  one first, instead of quietly launching the workers in your default
+  directory. A tab is a project; its workers should start in it.
+
 ## 1.20.0 — 2026-09-16
 
 **The Governor.** A new way to run a team, rethought from the ground up.
