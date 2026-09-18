@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.21.0 — 2026-09-18
+
+- Tasks panel connects to Microsoft To Do: a small cloud button signs you in
+  (device-code, no password typed into AgentDeck), shows your list's open
+  tasks, ticks them complete, and adds new ones straight to To Do. It stays
+  signed in across launches. Configure or point it at your own Microsoft app
+  in Settings → Integrations.
+
 ## 1.20.1 — 2026-09-16
 
 - Governor: briefing a tab that has no Home folder now warns and lets you set
