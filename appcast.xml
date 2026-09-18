@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.21.1</title>
+      <pubDate>Fri, 18 Sep 2026 14:23:58 +0100</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>1.21.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Microsoft To Do: no more duplicate local copy when adding a task; tasks now carry importance (star) and a due date you can set from a calendar, with overdue/today highlighting; rename a task by double-clicking it; the list auto-refreshes on focus plus a background poll so changes from the website or another device appear on their own.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.21.1/AgentDeck-1.21.1.zip" sparkle:edSignature="mSTvZKFwQsnkAE9IALcqIXsXast3wAza3E08MQMDvtBDJV0NuG0xHR7FWCZxeAc26bL/fe0mtyj0lnoKLhytBg==" length="8939957" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.21.0</title>
       <pubDate>Fri, 18 Sep 2026 12:13:55 +0100</pubDate>
       <sparkle:version>75</sparkle:version>
