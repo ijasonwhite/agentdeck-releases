@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.21.2</title>
+      <pubDate>Fri, 18 Sep 2026 14:34:35 +0100</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>1.21.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Reminders: set a Remind Me time on any To Do task (This evening / Tomorrow 9am presets or a full date-and-time picker) that fires through Microsoft To Do and Outlook, with a bell and a reminder chip on each task. Plus a redesigned task bar: one clean composer with a send button and Important / Due / Remind pills that light up when set.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.21.2/AgentDeck-1.21.2.zip" sparkle:edSignature="OQAnAU4fyDHXHH+cM6cAsngUKiz85T47UmVya7AZDYAYlnzifgoV6HTZv7ViAZqNP93Iofq0YATEfkuuW9jGCw==" length="8996740" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.21.1</title>
       <pubDate>Fri, 18 Sep 2026 14:23:58 +0100</pubDate>
       <sparkle:version>76</sparkle:version>
