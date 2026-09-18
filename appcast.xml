@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.21.0</title>
+      <pubDate>Fri, 18 Sep 2026 12:13:55 +0100</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Connect the Tasks panel to Microsoft To Do: a cloud button signs you in (device-code, no password typed into AgentDeck), shows your list's open tasks, ticks them complete, and adds new ones to To Do. Stays signed in across launches. Client ID / Tenant configurable in Settings → Integrations.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.21.0/AgentDeck-1.21.0.zip" sparkle:edSignature="3FZEoBAyebXcFTqD/6Agp7hrNK4c6wL+4W5oAOLhaGrPFQBbiEWMj4rAd173ZLdjZ8JU1WPUsh0wz80kWhywAQ==" length="8849301" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.20.1</title>
       <pubDate>Wed, 16 Sep 2026 22:08:31 +0100</pubDate>
       <sparkle:version>74</sparkle:version>
