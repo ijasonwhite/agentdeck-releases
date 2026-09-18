@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.21.2 — 2026-09-18
+
+- **Reminders.** Set a "Remind Me" time on any To Do task, with quick presets
+  (This evening, Tomorrow 9am) or a full date-and-time picker. The reminder
+  fires through Microsoft To Do and Outlook, not just inside AgentDeck. Each
+  task shows a bell and a reminder chip that turns red once it is due.
+- **Redesigned task bar.** The add-task row is now a single clean composer: a
+  borderless field with a send button, and — when connected — a row of pills
+  for Important, Due, and Remind that light up when set. Adding a task keeps
+  the field focused so you can keep going.
+
 ## 1.21.1 — 2026-09-18
 
 - Microsoft To Do: adding a task while connected no longer creates a duplicate
