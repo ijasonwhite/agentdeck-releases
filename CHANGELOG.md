@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.21.1 — 2026-09-18
+
+- Microsoft To Do: adding a task while connected no longer creates a duplicate
+  local copy — it goes straight to To Do.
+- To Do tasks now carry **importance** and a **due date**. Star a task to flag
+  it important, set a due date from a calendar popover, and see overdue and
+  due-today dates highlighted. Set them on new tasks too.
+- Rename a synced task by double-clicking its title.
+- The list now refreshes automatically when AgentDeck returns to the
+  foreground, plus a slow background poll — tasks you add on the To Do website
+  or another device show up without a manual refresh.
+
 ## 1.21.0 — 2026-09-18
 
 - Tasks panel connects to Microsoft To Do: a small cloud button signs you in
