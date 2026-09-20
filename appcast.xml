@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.22.1</title>
+      <pubDate>Sun, 20 Sep 2026 11:10:59 +0100</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>1.22.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Panel tabs collapse to icons-only when the panel is too narrow to fit every label, and show labels again when there's room. Hover any icon for its name.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.22.1/AgentDeck-1.22.1.zip" sparkle:edSignature="4KFbX3IzrcQimwf3r0czZmtY31O1zu0kCCSyeNNZwovdFAD7D4kHLu9oqqoon2XV8rHdNifgNhQk0ceo6dtZDA==" length="9191682" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.22.0</title>
       <pubDate>Sun, 20 Sep 2026 10:54:14 +0100</pubDate>
       <sparkle:version>78</sparkle:version>
