@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.22.0 — 2026-09-20
+
+**Git panel.** A new Git tab, next to Watcher, wired to the tab's Home folder —
+a tab is a project, so its repo shows up automatically.
+
+- Branch, ahead/behind, and a clean/dirty status at a glance, with quick links
+  to open the repo on GitHub or reveal it in Finder.
+- Commit history you can click into for the full message and diffstat.
+- Your uncommitted changes, colour-coded by kind.
+- Open pull requests and issues, when the GitHub CLI (`gh`) is installed and
+  signed in. Each opens on GitHub in a click.
+- Refreshes on its own while the panel is open and when AgentDeck returns to
+  the foreground.
+
 ## 1.21.2 — 2026-09-18
 
 - **Reminders.** Set a "Remind Me" time on any To Do task, with quick presets
