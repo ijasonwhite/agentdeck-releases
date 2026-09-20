@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.22.0</title>
+      <pubDate>Sun, 20 Sep 2026 10:54:14 +0100</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>New Git panel (next to Watcher), wired to the tab's Home folder: branch and ahead/behind status, clean/dirty state, commit history you can expand for the full message and diffstat, your uncommitted changes colour-coded, and open pull requests and issues when the GitHub CLI (gh) is installed. Quick links to open the repo on GitHub or reveal it in Finder.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.22.0/AgentDeck-1.22.0.zip" sparkle:edSignature="4FGlt16OCEjeHeyTvFjOkwT6pc3UMjyhWa1qIRIWGdqDoWZy6YrJTW/p++dIMBFLzONl08Ct97fHCEr0HnLsAA==" length="9180881" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.21.2</title>
       <pubDate>Fri, 18 Sep 2026 14:34:35 +0100</pubDate>
       <sparkle:version>77</sparkle:version>
