@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.24.0 — 2026-09-20
+
+A pack of efficiency and data-surfacing features.
+
+- Notifications now tell you why a session needs you (the actual prompt), and
+  let you Jump straight to it or Approve without switching windows. Works for
+  remote sessions too.
+- Waiting time is visible everywhere: on the tile, in the status bar (oldest
+  wait), and in the attention rail. Cmd+J jumps to whatever has been waiting
+  longest and cycles by age.
+- Find in a terminal with Cmd+F, with a live match count.
+- The command palette (Shift+Cmd+P) now searches your whole Library.
+- Sessions can auto-name themselves from their summary (on by default, toggle
+  in Settings).
+- New "Today" digest: a per-project rollup of your sessions and their
+  summaries, with an optional AI recap.
+- Library retention: keep transcripts forever or prune after 30 or 90 days,
+  with a disk-usage readout and project and kind filters.
+- The Git panel and each tile now show which files an agent touched, and a
+  live context-window percentage for Claude sessions (amber over 70 percent,
+  red over 90) with a full token breakdown on hover.
+
 ## 1.23.0 — 2026-09-20
 
 - The multi-agent "team" panel (the Watcher supervisor and the Governor
