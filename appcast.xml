@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.24.0</title>
+      <pubDate>Sun, 20 Sep 2026 18:05:18 +0100</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Efficiency and data-surfacing pack: notifications tell you why a session needs you with Jump/Approve actions (remote too); waiting time shown on tiles, status bar and attention rail with Cmd+J to the longest wait; Cmd+F terminal find with match count; command palette searches the whole Library; sessions can auto-name from their summary; a new Today digest per project; Library retention (forever/30/90 days) with disk readout and filters; per-tile and Git-panel file-touch attribution; and a live Claude context-window percentage per tile.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.24.0/AgentDeck-1.24.0.zip" sparkle:edSignature="Bta4IJR/oMYHBa6q6EoJtye2cwohKfafaiICXQtVqifidk1yDeX3pXXTRi1OUtwZb0vcZWTX9lkLEVOItuc2Cw==" length="9471144" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.23.0</title>
       <pubDate>Sun, 20 Sep 2026 14:32:18 +0100</pubDate>
       <sparkle:version>80</sparkle:version>
