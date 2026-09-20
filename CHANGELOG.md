@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.23.0 — 2026-09-20
+
+- The multi-agent "team" panel (the Watcher supervisor and the Governor
+  orchestrator) has been retired for now while the approach is reworked. Its
+  tab, tab-menu controls, status indicators, and settings are gone, and it no
+  longer triages agent turns in the background. Everything else, including the
+  new Git panel, is unaffected.
+
 ## 1.22.1 — 2026-09-20
 
 - Panel tabs (Agents / Watcher / Git / Tasks / Notes) now collapse to
