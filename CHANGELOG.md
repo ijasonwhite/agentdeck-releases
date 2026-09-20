@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.22.1 — 2026-09-20
+
+- Panel tabs (Agents / Watcher / Git / Tasks / Notes) now collapse to
+  icons-only when the panel is too narrow to show every label, and show the
+  labels again when there's room. Hover any icon for its name.
+
 ## 1.22.0 — 2026-09-20
 
 **Git panel.** A new Git tab, next to Watcher, wired to the tab's Home folder —
