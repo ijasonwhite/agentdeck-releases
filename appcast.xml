@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.25.0</title>
+      <pubDate>Mon, 21 Sep 2026 11:34:33 +0100</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>1.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>New Agent now has a Web Based option: give it a URL and it opens a web tile in the grid alongside your terminals, with back/forward/reload and an editable address bar. The tile names itself from the page title and reopens where you left it after a relaunch.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.25.0/AgentDeck-1.25.0.zip" sparkle:edSignature="HiA6Bhb8sOcWSe642MaLXeSZuIAXBMit/syyo0jDW5Y664emFR5rmicEoBKhzBOD6s5j0Ex5j36Odzb46FFlAQ==" length="9520918" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.24.0</title>
       <pubDate>Sun, 20 Sep 2026 18:05:18 +0100</pubDate>
       <sparkle:version>81</sparkle:version>
