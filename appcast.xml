@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.26.0</title>
+      <pubDate>Mon, 21 Sep 2026 11:41:31 +0100</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>A tab filter in the toolbar (next to Flows): type part of a tab name to narrow the strip to matching tabs, with the tab you are on always kept visible. Clear the box to bring them all back.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.26.0/AgentDeck-1.26.0.zip" sparkle:edSignature="qm97oekdUJUCEJhGfXivYJoErKaC5XeM5MzLJ4YmdvH5Y+twZqmyllRfp+Jm73jgdJ8DLfLQUT/1LbVFt+ewDw==" length="9539999" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.25.0</title>
       <pubDate>Mon, 21 Sep 2026 11:34:33 +0100</pubDate>
       <sparkle:version>82</sparkle:version>
