@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.26.0 — 2026-09-21
+
+- A tab filter in the toolbar (next to Flows). Type part of a tab name and the
+  strip narrows to matching tabs; the tab you're on always stays visible. Clear
+  the box to bring them all back. Handy once you have a lot of tabs open.
+
 ## 1.25.0 — 2026-09-21
 
 - New Agent now has a "Web Based" option. Give it a URL and it opens a web tile
