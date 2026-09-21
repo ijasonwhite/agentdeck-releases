@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.25.0 — 2026-09-21
+
+- New Agent now has a "Web Based" option. Give it a URL and it opens a web tile
+  right in the grid alongside your terminals, with a slim nav bar (back,
+  forward, reload, and an editable address). The tile names itself from the
+  page title and reopens where you left it when you relaunch.
+
 ## 1.24.0 — 2026-09-20
 
 A pack of efficiency and data-surfacing features.
