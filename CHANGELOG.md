@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.28.0 — 2026-09-30
+
+- Recent-tab chips in the toolbar, next to the tab filter: the five tabs you
+  most recently worked in, one click to jump to any of them. The list is driven
+  by real activity (typing in a terminal, agent output, loading a web tile) not
+  by simply switching tabs, so it tracks where you have actually been working.
+
 ## 1.27.0 — 2026-09-30
 
 - New History panel (next to Git), scoped to the tab you're in. It lists this
