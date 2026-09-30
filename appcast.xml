@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.28.0</title>
+      <pubDate>Wed, 30 Sep 2026 10:08:46 +0100</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Recent-tab chips in the toolbar, next to the tab filter: the five tabs you most recently worked in, one click to jump to any. The list is driven by real activity (typing in a terminal, agent output, loading a web tile), not by simply switching tabs.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.28.0/AgentDeck-1.28.0.zip" sparkle:edSignature="lcX0d9wHzVk0z3nUsSm+iRWqjclT8jBlmAXDY7jAqMDrAholkZWWWiq0WCgQzv6oEjnd6g0/D50ypN4tGTE2CQ==" length="9616895" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.27.0</title>
       <pubDate>Wed, 30 Sep 2026 10:01:47 +0100</pubDate>
       <sparkle:version>84</sparkle:version>
