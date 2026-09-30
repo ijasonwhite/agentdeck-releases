@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.27.0 — 2026-09-30
+
+- New History panel (next to Git), scoped to the tab you're in. It lists this
+  project's past sessions, anything opened in the tab or run under its Home
+  folder, newest first. Click one to pick up where you left off. The full
+  cross-project History in the toolbar is still there.
+
 ## 1.26.0 — 2026-09-21
 
 - A tab filter in the toolbar (next to Flows). Type part of a tab name and the
