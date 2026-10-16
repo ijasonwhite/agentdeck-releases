@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.29.0 — 2026-10-16
+
+- Pin tabs to the toolbar quick-nav chips. Right-click a recent chip, or a tab
+  itself, and pin it: it stays put as a permanent chip and no longer counts
+  against the five rotating recent slots. Pins persist across launches.
+
 ## 1.28.0 — 2026-09-30
 
 - Recent-tab chips in the toolbar, next to the tab filter: the five tabs you
