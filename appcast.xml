@@ -7,6 +7,30 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>AgentDeck 1.30.0</title>
+      <pubDate>Thu, 12 Nov 2026 15:48:08 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Library: compress transcripts, add size limits, actually shrink the file
+
+The library db was growing about 1GB a day. Transcripts were stored as plain
+text and the search index kept a second full copy of all of it, and deleting
+sessions never gave the space back to the disk.
+
+- Transcripts are stored compressed now (roughly 6x smaller on real data)
+- Search index no longer keeps its own copy of the text
+- Existing libraries get converted in the background on first launch, with
+  progress shown in Settings. Safe to quit partway, it picks up again
+- New Library settings: keep sessions for 7/14/30/90 days, a max library
+  size, and a max size per session
+- Compact Now button to apply the limits and shrink the file right away
+- Limits get applied every few hours, not just at launch
+- A session that never stopped printing could buffer forever in memory, it
+  now flushes every 256KB</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/agentdeck-releases/releases/download/v1.30.0/AgentDeck-1.30.0.zip" sparkle:edSignature="VvZ2LKkaYcgm5n83DbFOU+Cv87tT98K/u2p7a/zL0fpm14yKnxAUG42BLCQBHN440Ayt7rkKmUTiKVoUyINWCg==" length="5886181" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AgentDeck 1.28.0</title>
       <pubDate>Wed, 30 Sep 2026 10:08:46 +0100</pubDate>
       <sparkle:version>85</sparkle:version>
