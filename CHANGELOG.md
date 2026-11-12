@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.30.0 — 2026-11-12
+
+- The Library takes far less disk space. Transcripts are now stored compressed
+  and the search index no longer keeps a second copy of everything. Existing
+  libraries are converted in the background the first time you launch this
+  version (progress shows in Settings), then the file is shrunk on disk.
+- New Library settings: keep sessions for 7, 14, 30 or 90 days, cap the total
+  Library size, and cap how much any one session can store. Limits are applied
+  in the background every few hours, and Compact Now applies them straight away.
+- AI summaries (TLDR, Discuss, the Today rollup, flows, prompt assist) can run
+  off any configured provider, not just Anthropic.
+- The recent-tab chips in the toolbar no longer jump around.
+- Includes pinned tabs from 1.29.0, which never went out as an update.
+
 ## 1.29.0 — 2026-10-16
 
 - Pin tabs to the toolbar quick-nav chips. Right-click a recent chip, or a tab
